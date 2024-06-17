@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function About() {
+export default function Order() {
   return (
     <div style={{ height: "85vh" }}>
       <div style={{ display: "flex", justifyContent: "center" }}>

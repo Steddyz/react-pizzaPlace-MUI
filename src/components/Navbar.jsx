@@ -4,8 +4,7 @@ import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
-import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
@@ -16,9 +15,15 @@ export default function Navbar() {
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
               Pizza Place
             </Typography>
-            <Button color="inherit">Home</Button>
-            <Button color="inherit">About</Button>
-            <Button color="inherit">Order</Button>
+            <Button component={Link} to="/" color="inherit">
+              Home
+            </Button>
+            <Button component={Link} to="/about" color="inherit">
+              About
+            </Button>
+            <Button component={Link} to="/order" color="inherit">
+              Order
+            </Button>
           </Toolbar>
         </AppBar>
       </Box>
