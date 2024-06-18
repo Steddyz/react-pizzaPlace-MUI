@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-pizzaPlace-MUI/static/css/main.5504ee8c.css",
+    "main.js": "/react-pizzaPlace-MUI/static/js/main.dbaa9c96.js",
+    "index.html": "/react-pizzaPlace-MUI/index.html",
+    "main.5504ee8c.css.map": "/react-pizzaPlace-MUI/static/css/main.5504ee8c.css.map",
+    "main.dbaa9c96.js.map": "/react-pizzaPlace-MUI/static/js/main.dbaa9c96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5504ee8c.css",
+    "static/js/main.dbaa9c96.js"
+  ]
+}
