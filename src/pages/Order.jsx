@@ -8,16 +8,21 @@ export default function Order() {
           src="https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Pepperoni_40sm/Medium.png?hash=92b4aab174ef2fc4e7cb6693e9491501"
           alt="pizza"
         />
+        <hr />
+
         <img
           src="https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v45/Pitstsa_40sm/4_Syira_40sm/Medium.png?hash=f530c2fc1726d73286f6656fd56d59ae"
           alt="pizza"
         />
+        <hr />
+
         <img
           src="https://staticcontent.mypizza.kg/Dishes/Imperiia_Pitstsyi/v1/Pitstsa_40sm/Pepperoni_40sm/Medium.png?hash=92b4aab174ef2fc4e7cb6693e9491501"
           alt="pizza"
         />
       </div>
-      <p style={{ margin: "10px", fontSize: "27px", fontWeight: "700" }}>
+      <hr />
+      <p style={{ margin: "15px", fontSize: "27px", fontWeight: "500" }}>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
